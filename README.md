@@ -6,3 +6,4 @@ Click on the following links to open the detailed instructions by platforms:
  - [Python Django](django/README.md)
  - [Webflow](webflow/README.md)
  - [Wordpress](wordpress/README.md)
+ - [Wix](wix/README.md)
