@@ -1,18 +1,17 @@
-# Swetrix to Wordpress integration
+# Swetrix to Ghost integration
 After you sign up on Swetrix and create a new project, the only thing left is to add it to your website.
 If you're curious what data the tracking script collects, open our [documentation](https://swetrix.com/docs#docs-tv) and read the `API -> trackViews` section.
 
 ## Installation
-1. Log in to your Wordpress account.
-2. Install a plugin for adding the code to your HTML, for instance the [Insert Headers and Footers plugin](https://wordpress.org/plugins/insert-headers-and-footers/?ref=swetrix.com).
-3. Open up your project, go to the `Project Settings > Custom Code` section.
+1. Log in to your Ghost admin account.
+2. Open `Settings`, go to the `Code Injection` section.
 
-4. To the `Scripts in Header` section you need to add the following:
+3. To the `Site Header` section you need to add the following:
 ```html
 <script src="https://swetrix.org/swetrix.js" defer></script>
 ```
 
-5. In the `Scripts in Footer` section you need to add the following:
+5. In the `Site Footer` section you need to add the following:
 ```html
 <script>
   document.addEventListener('DOMContentLoaded', function () {

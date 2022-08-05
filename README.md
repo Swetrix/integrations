@@ -7,3 +7,4 @@ Click on the following links to open the detailed instructions by platforms:
  - [Webflow](webflow/README.md)
  - [Wordpress](wordpress/README.md)
  - [Wix](wix/README.md)
+ - [Ghost](ghost/README.md)
