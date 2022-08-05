@@ -27,7 +27,7 @@ If you're curious what data the tracking script collects, open our [documentatio
 </noscript>
 ```
 
-**Do not forget to update YOUR_PROJECT_ID to your actual project id!**
+**Do not forget to change YOUR_PROJECT_ID to your actual project id!**
 
 ## Check your installation
 After installing Swetrix tracking script, go to your website and visit some pages.\

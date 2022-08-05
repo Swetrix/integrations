@@ -31,7 +31,7 @@ If you're curious what data the tracking script collects, open our [documentatio
 10. Select `Body - end` when asked where to place the code snippet.
 10. Click `Apply` again, and done!
 
-**Do not forget to update YOUR_PROJECT_ID to your actual project id!**
+**Do not forget to change YOUR_PROJECT_ID to your actual project id!**
 
 ## Check your installation
 After installing Swetrix tracking script, go to your website and visit some pages.\
