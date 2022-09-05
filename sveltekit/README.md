@@ -15,10 +15,10 @@ If you're curious what data the tracking script collects, open our [documentatio
 
     onMount(() => {
         Swetrix.init("YOUR_PROJECT_ID");
+        Swetrix.trackViews();
     });
 
     // Trigger a pageview everytime the user navigates.
-    // This also triggers when the layout gets loaded (but after onMount).
     // We use the `browser` env variable to ensure that we don't try to 
     // call trackViews while the component is doing SSR.
     $: $page.url.pathname, browser && Swetrix.trackViews();
