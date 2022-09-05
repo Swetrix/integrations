@@ -8,3 +8,4 @@ Click on the following links to open the detailed instructions by platforms:
  - [Wordpress](wordpress/README.md)
  - [Wix](wix/README.md)
  - [Ghost](ghost/README.md)
+ - [SvelteKit](sveltekit/README.md)
