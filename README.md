@@ -1,3 +1,6 @@
+THIS REPO IS ARCHIVED IN FAVOUR OF https://github.com/Swetrix/docs/tree/main/docs/integrations
+
+
 <img src="https://github.com/Swetrix/swetrix-fe/raw/main/public/assets/logo_blue.svg" alt="" height="100" />
 
 # Swetrix Integrations
